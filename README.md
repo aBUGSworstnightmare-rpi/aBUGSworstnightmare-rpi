@@ -1,4 +1,4 @@
-Hi, I'm Joerg and I'm known as aBUGSworstnightmare most places online. 
+Hi, I'm Joerg, known as aBUGSworstnightmare most places online. 
 I'm located in Bavaria, Germany and interested in tinkering with Raspberry Pi. Most of my developments are related to driving TFT displays from the RPi.
 
 Find some of my projects on [YouTube](https://www.youtube.com/channel/UCfXBC0xASUtFc6JM_aYxhBg) 
